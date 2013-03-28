@@ -108,7 +108,7 @@ body {
 }
 .carousel-caption p.lead.darkened {
   color: #111;
-  text-shadow: 0.1em 0.1em 0.3em #AAA;
+  text-shadow: 0.07em 0.07em 0.25em #AAA;
 }
 .carousel-caption p.lead.haloed {
   text-shadow: 0.1em 0.1em 0.1em #000;
