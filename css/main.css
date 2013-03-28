@@ -106,7 +106,13 @@ body {
 .carousel-caption .btn {
   margin-top: 10px;
 }
-
+.carousel-caption p.lead.darkened {
+  color: #111;
+  text-shadow: 0.1em 0.1em 0.3em #AAA;
+}
+.carousel-caption p.lead.haloed {
+  text-shadow: 0.1em 0.1em 0.1em #000;
+}
 
 
 /* MARKETING CONTENT
