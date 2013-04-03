@@ -172,7 +172,12 @@ body {
 .featurette p.lead.nolimit {
   max-width:100%;
 }
-
+#foxyform_embed_link_49959 {
+  display: none !important;
+}
+iframe {
+  height: 560px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
