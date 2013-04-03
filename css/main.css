@@ -56,7 +56,9 @@ body {
 .navbar .btn-navbar {
   margin-top: 10px;
 }
-
+#partners-list {
+  text-align: left;
+}
 
 
 /* CUSTOMIZE THE CAROUSEL
