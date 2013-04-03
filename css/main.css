@@ -166,7 +166,12 @@ body {
   line-height: 1;
   letter-spacing: -1px;
 }
-
+.featurette p.lead {
+  max-width: 775px;
+}
+.featurette p.lead.nolimit {
+  max-width:100%;
+}
 
 
 /* RESPONSIVE CSS
