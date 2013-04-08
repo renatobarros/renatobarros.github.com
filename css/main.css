@@ -178,6 +178,15 @@ body {
 iframe {
   height: 560px;
 }
+#sobre h2 {
+  margin-bottom: 40px;
+}
+#sobre p {
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
