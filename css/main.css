@@ -186,6 +186,7 @@ iframe {
   font-weight: 200;
   line-height: 30px;
   margin-bottom: 20px;
+  text-align: justify;
 }
 
 /* RESPONSIVE CSS
