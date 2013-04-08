@@ -59,7 +59,9 @@ body {
 #partners-list {
   text-align: left;
 }
-
+div.nav-collapse.in.collapse ul.nav li a {
+  padding-left: 30px;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
